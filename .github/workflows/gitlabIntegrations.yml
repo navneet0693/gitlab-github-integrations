@@ -1,4 +1,4 @@
-name: Mirroring Repository
+name: Github to Drupal code
 
 on: [push, delete]
 
