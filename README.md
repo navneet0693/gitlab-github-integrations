@@ -1,10 +1,10 @@
 # **What**
 
-This repository is an example to enable mirroring of Github repository to drupal.org project hosted on Gitlab. This will updated your Drupal.org's project repository with the changes in your Github repository. This deployments/pushes can be check via "Actions" tab on your Github repository.
+This repository is an example to enable mirroring of Github repository to drupal.org project hosted on Gitlab. This will updated your Drupal.org's project repository with the changes in your Github repository, not vice-versa. This deployments/pushes can be check via "Actions" tab on your Github repository.
 
 # **Why**
 
-We often host our Drupal.org projects on Github for better collaborations and workflows and we maintain it on Github and then push the changes to Drupal.org.
+Sometimes, we host our Drupal.org projects on Github for better collaborations and workflows and we maintain it on Github and then push the changes to Drupal.org. But this is a manual task, so we need to find a solution which automates this process.
 
 # **How**
 
