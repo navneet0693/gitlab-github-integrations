@@ -1,4 +1,4 @@
-name: Github to Drupal code
+name: Github to Drupal.org (Gitlab)
 
 on: [push, delete]
 
