@@ -1,1 +1,1 @@
-This is an experiment to test integration between drupal.org sandbox project and github.
+This is an experiment to test sync via mirroring between drupal.org sandbox project and github.
